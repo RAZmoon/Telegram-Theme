@@ -1,4 +1,4 @@
-# 🌙 My Custom (RAZ.Dark.2) Telegram Android Theme
+# 🌙 RAZ.Dark.2 Telegram Android Theme
 
 A stylish and modern Telegram theme for Android. Made with attention to detail for a better visual experience. Easy to import and free to use!
 
